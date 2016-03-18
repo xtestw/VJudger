@@ -1,0 +1,14 @@
+config.ini
+/log/*
+/cookies/*
+/results/*
+/cha_results/*
+/raw_files/*
+/cha_raw_files/*
+/tmpfile/*
+/testdata/*
+*.bott
+*.log
+nohup.out
+*.o
+obj
